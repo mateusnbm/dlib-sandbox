@@ -1,26 +1,26 @@
 Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX11 succeeded with the following output:
-Change Dir: /Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles/CMakeTmp
+Change Dir: /Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_c450e/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_c450e.dir/build.make CMakeFiles/cmTC_c450e.dir/build
-Building CXX object CMakeFiles/cmTC_c450e.dir/src.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -DCOMPILER_SUPPORTS_CXX11   -std=c++11 -o CMakeFiles/cmTC_c450e.dir/src.cxx.o -c /Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles/CMakeTmp/src.cxx
-Linking CXX executable cmTC_c450e
-/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c450e.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -DCOMPILER_SUPPORTS_CXX11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_c450e.dir/src.cxx.o  -o cmTC_c450e 
+Run Build Command:"/usr/bin/make" "cmTC_1080b/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_1080b.dir/build.make CMakeFiles/cmTC_1080b.dir/build
+Building CXX object CMakeFiles/cmTC_1080b.dir/src.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -DCOMPILER_SUPPORTS_CXX11   -std=c++11 -o CMakeFiles/cmTC_1080b.dir/src.cxx.o -c /Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_1080b
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1080b.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -DCOMPILER_SUPPORTS_CXX11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_1080b.dir/src.cxx.o  -o cmTC_1080b 
 
 Source file was:
 int main() { return 0; }
 Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX0X succeeded with the following output:
-Change Dir: /Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles/CMakeTmp
+Change Dir: /Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_22b32/fast"
-/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_22b32.dir/build.make CMakeFiles/cmTC_22b32.dir/build
-Building CXX object CMakeFiles/cmTC_22b32.dir/src.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -DCOMPILER_SUPPORTS_CXX0X   -std=c++0x -o CMakeFiles/cmTC_22b32.dir/src.cxx.o -c /Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles/CMakeTmp/src.cxx
-Linking CXX executable cmTC_22b32
-/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_22b32.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -DCOMPILER_SUPPORTS_CXX0X -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_22b32.dir/src.cxx.o  -o cmTC_22b32 
+Run Build Command:"/usr/bin/make" "cmTC_fc990/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_fc990.dir/build.make CMakeFiles/cmTC_fc990.dir/build
+Building CXX object CMakeFiles/cmTC_fc990.dir/src.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -DCOMPILER_SUPPORTS_CXX0X   -std=c++0x -o CMakeFiles/cmTC_fc990.dir/src.cxx.o -c /Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_fc990
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fc990.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -DCOMPILER_SUPPORTS_CXX0X -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_fc990.dir/src.cxx.o  -o cmTC_fc990 
 
 Source file was:
 int main() { return 0; }

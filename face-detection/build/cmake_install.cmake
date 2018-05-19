@@ -1,4 +1,4 @@
-# Install script for directory: /Users/mateusnbm/desktop/dlib-sandbox/face-detection
+# Install script for directory: /Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/cmake_install.cmake")
+  include("/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

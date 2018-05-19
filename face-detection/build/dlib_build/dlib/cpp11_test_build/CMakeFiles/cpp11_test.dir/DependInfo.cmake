@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/mateusnbm/desktop/dlib-sandbox/dlib-19.10/dlib/cmake_utils/test_for_cpp11/cpp11_test.cpp" "/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles/cpp11_test.dir/cpp11_test.cpp.o"
+  "/Users/mateusnbm/desktop/workspace/dlib-sandbox/dlib-19.10/dlib/cmake_utils/test_for_cpp11/cpp11_test.cpp" "/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles/cpp11_test.dir/cpp11_test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

@@ -48,10 +48,10 @@ RM = /usr/local/Cellar/cmake/3.11.1/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/mateusnbm/desktop/dlib-sandbox/face-detection
+CMAKE_SOURCE_DIR = /Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/mateusnbm/desktop/dlib-sandbox/face-detection/build
+CMAKE_BINARY_DIR = /Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/CMakeFiles /Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/CMakeFiles /Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named face_detection_ex
+# Target rules for targets named face-detection-example
 
 # Build rule for target.
-face_detection_ex: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 face_detection_ex
-.PHONY : face_detection_ex
+face-detection-example: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 face-detection-example
+.PHONY : face-detection-example
 
 # fast build rule for target.
-face_detection_ex/fast:
-	$(MAKE) -f CMakeFiles/face_detection_ex.dir/build.make CMakeFiles/face_detection_ex.dir/build
-.PHONY : face_detection_ex/fast
+face-detection-example/fast:
+	$(MAKE) -f CMakeFiles/face-detection-example.dir/build.make CMakeFiles/face-detection-example.dir/build
+.PHONY : face-detection-example/fast
 
 #=============================================================================
 # Target rules for targets named dlib
@@ -136,32 +136,32 @@ dlib/fast:
 	$(MAKE) -f dlib_build/dlib/CMakeFiles/dlib.dir/build.make dlib_build/dlib/CMakeFiles/dlib.dir/build
 .PHONY : dlib/fast
 
-face_detection_ex.o: face_detection_ex.cpp.o
+face-detection-example.o: face-detection-example.cpp.o
 
-.PHONY : face_detection_ex.o
+.PHONY : face-detection-example.o
 
 # target to build an object file
-face_detection_ex.cpp.o:
-	$(MAKE) -f CMakeFiles/face_detection_ex.dir/build.make CMakeFiles/face_detection_ex.dir/face_detection_ex.cpp.o
-.PHONY : face_detection_ex.cpp.o
+face-detection-example.cpp.o:
+	$(MAKE) -f CMakeFiles/face-detection-example.dir/build.make CMakeFiles/face-detection-example.dir/face-detection-example.cpp.o
+.PHONY : face-detection-example.cpp.o
 
-face_detection_ex.i: face_detection_ex.cpp.i
+face-detection-example.i: face-detection-example.cpp.i
 
-.PHONY : face_detection_ex.i
+.PHONY : face-detection-example.i
 
 # target to preprocess a source file
-face_detection_ex.cpp.i:
-	$(MAKE) -f CMakeFiles/face_detection_ex.dir/build.make CMakeFiles/face_detection_ex.dir/face_detection_ex.cpp.i
-.PHONY : face_detection_ex.cpp.i
+face-detection-example.cpp.i:
+	$(MAKE) -f CMakeFiles/face-detection-example.dir/build.make CMakeFiles/face-detection-example.dir/face-detection-example.cpp.i
+.PHONY : face-detection-example.cpp.i
 
-face_detection_ex.s: face_detection_ex.cpp.s
+face-detection-example.s: face-detection-example.cpp.s
 
-.PHONY : face_detection_ex.s
+.PHONY : face-detection-example.s
 
 # target to generate assembly for a file
-face_detection_ex.cpp.s:
-	$(MAKE) -f CMakeFiles/face_detection_ex.dir/build.make CMakeFiles/face_detection_ex.dir/face_detection_ex.cpp.s
-.PHONY : face_detection_ex.cpp.s
+face-detection-example.cpp.s:
+	$(MAKE) -f CMakeFiles/face-detection-example.dir/build.make CMakeFiles/face-detection-example.dir/face-detection-example.cpp.s
+.PHONY : face-detection-example.cpp.s
 
 # Help Target
 help:
@@ -171,11 +171,11 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... face_detection_ex"
+	@echo "... face-detection-example"
 	@echo "... dlib"
-	@echo "... face_detection_ex.o"
-	@echo "... face_detection_ex.i"
-	@echo "... face_detection_ex.s"
+	@echo "... face-detection-example.o"
+	@echo "... face-detection-example.i"
+	@echo "... face-detection-example.s"
 .PHONY : help
 
 

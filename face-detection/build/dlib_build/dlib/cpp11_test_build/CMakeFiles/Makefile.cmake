@@ -7,10 +7,10 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/Users/mateusnbm/desktop/dlib-sandbox/dlib-19.10/dlib/cmake_utils/test_for_cpp11/CMakeLists.txt"
-  "/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/CMakeFiles/3.11.1/CMakeCCompiler.cmake"
-  "/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/CMakeFiles/3.11.1/CMakeCXXCompiler.cmake"
-  "/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/CMakeFiles/3.11.1/CMakeSystem.cmake"
+  "/Users/mateusnbm/desktop/workspace/dlib-sandbox/dlib-19.10/dlib/cmake_utils/test_for_cpp11/CMakeLists.txt"
+  "/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/CMakeFiles/3.11.1/CMakeCCompiler.cmake"
+  "/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/CMakeFiles/3.11.1/CMakeCXXCompiler.cmake"
+  "/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/CMakeFiles/3.11.1/CMakeSystem.cmake"
   "/usr/local/Cellar/cmake/3.11.1/share/cmake/Modules/CMakeCInformation.cmake"
   "/usr/local/Cellar/cmake/3.11.1/share/cmake/Modules/CMakeCXXInformation.cmake"
   "/usr/local/Cellar/cmake/3.11.1/share/cmake/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"

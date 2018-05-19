@@ -1,4 +1,4 @@
-# Install script for directory: /Users/mateusnbm/desktop/dlib-sandbox/dlib-19.10/dlib
+# Install script for directory: /Users/mateusnbm/desktop/workspace/dlib-sandbox/dlib-19.10/dlib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

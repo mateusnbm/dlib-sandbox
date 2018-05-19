@@ -1,8 +1,8 @@
-/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/CMakeFiles/rebuild_cache.dir
-/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/CMakeFiles/edit_cache.dir
-/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/CMakeFiles/face_detection_ex.dir
-/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/CMakeFiles/rebuild_cache.dir
-/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/CMakeFiles/edit_cache.dir
-/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/dlib/CMakeFiles/rebuild_cache.dir
-/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/dlib/CMakeFiles/edit_cache.dir
-/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/dlib/CMakeFiles/dlib.dir
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/CMakeFiles/rebuild_cache.dir
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/CMakeFiles/edit_cache.dir
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/CMakeFiles/face-detection-example.dir
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/CMakeFiles/edit_cache.dir
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/dlib/CMakeFiles/rebuild_cache.dir
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/dlib/CMakeFiles/edit_cache.dir
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/dlib/CMakeFiles/dlib.dir

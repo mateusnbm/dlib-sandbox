@@ -1,4 +1,4 @@
-# Install script for directory: /Users/mateusnbm/desktop/dlib-sandbox/dlib-19.10/dlib/cmake_utils/test_for_cpp11
+# Install script for directory: /Users/mateusnbm/desktop/workspace/dlib-sandbox/dlib-19.10/dlib/cmake_utils/test_for_cpp11
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

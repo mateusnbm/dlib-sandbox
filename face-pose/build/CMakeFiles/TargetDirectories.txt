@@ -1,0 +1,8 @@
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-pose/build/CMakeFiles/rebuild_cache.dir
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-pose/build/CMakeFiles/edit_cache.dir
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-pose/build/CMakeFiles/face-pose-example.dir
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-pose/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-pose/build/dlib_build/CMakeFiles/edit_cache.dir
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-pose/build/dlib_build/dlib/CMakeFiles/rebuild_cache.dir
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-pose/build/dlib_build/dlib/CMakeFiles/edit_cache.dir
+/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-pose/build/dlib_build/dlib/CMakeFiles/dlib.dir

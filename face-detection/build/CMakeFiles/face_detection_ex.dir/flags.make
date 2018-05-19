@@ -6,5 +6,5 @@ CXX_FLAGS = -O3 -DNDEBUG   -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -DDLIB_USE_LAPACK
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/mateusnbm/desktop/dlib-sandbox/dlib-19.10/dlib/.. 
+CXX_INCLUDES = -I/Users/mateusnbm/desktop/workspace/dlib-sandbox/dlib-19.10/dlib/.. 
 

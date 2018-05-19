@@ -54,10 +54,10 @@ RM = /usr/local/Cellar/cmake/3.11.1/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/mateusnbm/desktop/dlib-sandbox/dlib-19.10/dlib/cmake_utils/test_for_cpp11
+CMAKE_SOURCE_DIR = /Users/mateusnbm/desktop/workspace/dlib-sandbox/dlib-19.10/dlib/cmake_utils/test_for_cpp11
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build
+CMAKE_BINARY_DIR = /Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build
 
 #=============================================================================
 # Target rules for target CMakeFiles/cpp11_test.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dl
 CMakeFiles/cpp11_test.dir/all:
 	$(MAKE) -f CMakeFiles/cpp11_test.dir/build.make CMakeFiles/cpp11_test.dir/depend
 	$(MAKE) -f CMakeFiles/cpp11_test.dir/build.make CMakeFiles/cpp11_test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles --progress-num=1,2 "Built target cpp11_test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles --progress-num=1,2 "Built target cpp11_test"
 .PHONY : CMakeFiles/cpp11_test.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/cpp11_test.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/cpp11_test.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/cpp11_test.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/mateusnbm/desktop/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/mateusnbm/desktop/workspace/dlib-sandbox/face-detection/build/dlib_build/dlib/cpp11_test_build/CMakeFiles 0
 .PHONY : CMakeFiles/cpp11_test.dir/rule
 
 # Convenience name for target.
